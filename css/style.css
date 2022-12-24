@@ -38,6 +38,10 @@ a:hover {
   width: 150px;
 }
 
+.logo1img {
+  width: 60px;
+}
+
 /* *** Global scss code end *** */
 #myBtn {
   display: none;
@@ -1249,9 +1253,13 @@ a:hover {
     transform: translate(41%, 0%);
   }
 
-  .navbar-brand img {
+  /* .navbar-brand img {
     width: 60%;
-  }
+  } */
+
+  /* .logoimg {
+    width: 60%;
+  } */
 
   .navbar-toggler-icon {
     background: #ffcb0f;
